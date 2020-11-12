@@ -55,7 +55,7 @@ Material:
     - _FaceUVSpeedY: 0
     - _GlowInner: 0.05
     - _GlowOffset: 0
-    - _GlowOuter: 0.05
+    - _GlowOuter: 0.058
     - _GlowPower: 0.75
     - _GradientScale: 10
     - _LightAngle: 3.1416
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hashCode: -1821538369
   material: {fileID: -6656905189396515994}
-  materialHashCode: 571016174
+  materialHashCode: 1254338879
   m_Version: 1.1.0
   m_SourceFontFileGUID: 8c40122aded574c538617bb84b66784d
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 8c40122aded574c538617bb84b66784d,
@@ -1935,6 +1935,7 @@ MonoBehaviour:
   m_AtlasTextures:
   - {fileID: -2001250316082973985}
   m_AtlasTextureIndex: 0
+  m_IsMultiAtlasTexturesEnabled: 0
   m_UsedGlyphRects:
   - m_X: 0
     m_Y: 0
